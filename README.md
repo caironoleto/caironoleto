@@ -6,6 +6,7 @@
       
 <h3>Things I code with</h3>
 <ul>
+  <li><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/caironoleto?label=Visite%20meu%20twitter&style=social"></li>
   <li>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   </li>
