@@ -3,7 +3,7 @@
 
 I'm Software Engineer, currently working as Senior Tech Manager at [Trybe](https://github.com/betrybe), leading Software Engineers working with Elixir and JavaScript (and React).
 
-I've already worked with Ruby, Go, PHP and some many other programming languages and technologias over all these years.
+I've already worked with Ruby, Go, PHP and some many other programming languages and technologies over all these years.
 
 I'm passionate about People and how I can help them to achieve their goals, I'm obsessed with making software to solve business scalability problems and Agile environments.
 
