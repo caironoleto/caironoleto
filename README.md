@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey, I'm Cairo Noleto!
 ###### Pronouns: He/him (Ele).
 
-I'm Software Engineer, currently working as Staff Software Engineer at [Trybe](https://github.com/betrybe), working with Elixir and JavaScript (TypeScript, Next.js and React).
+I'm Software Engineer, currently working as Staff Software Engineer, working with Python.
 
 I've already worked with Ruby, Go, PHP and some many other programming languages and technologies over all these years.
 
